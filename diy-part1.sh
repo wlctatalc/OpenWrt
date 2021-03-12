@@ -19,4 +19,3 @@
 #sed -i '$a src-git kenzo https://github.com/V2RaySSR/openwrt-packages' feeds.conf.default
 #sed -i '$a src-git small https://github.com/V2RaySSR/small' feeds.conf.default
 sed -i '$a src-git liuran001_packages https://github.com/liuran001/openwrt-packages' feeds.conf.default
-git clone https://github.com/jerrykuku/luci-theme-argon.git package/luci-theme-argon
